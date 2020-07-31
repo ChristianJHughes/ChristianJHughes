@@ -1,18 +1,13 @@
-### Hey there! 
+# 🎉 Nice to meet you!
 
 ![ramsey-banner-christian-hughes](https://user-images.githubusercontent.com/14190451/89072635-8ae64000-d33e-11ea-8f2d-8bed780fa9c9.jpg)
 
-<!--
-**ChristianJHughes/ChristianJHughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Christian! I build tools at [Ramsey Solutions](https://www.ramseyinhouse.com) that help folks **get out of debt** 💸, **build wealth** 🤩, and find **financial freedom** 🥳.
 
-Here are some ideas to get you started:
+**Right now, I'm working on...**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧰 Building out tooling for our **CMS Platform**, serving millions of users each month.
+- 🖌️ Supporting our in-house **Design System**, unifying design standards across 15+ domains.
+- 💻 Collaborating on Front-End Standards, supporting our in-house team of 140+ developers.
+
+🗣 Want to chat? Reach out on [LinkedIn](https://www.linkedin.com/in/christianjhughes/)!
