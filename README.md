@@ -10,4 +10,4 @@
 - 🖌️ Supporting our in-house **Design System**, unifying design standards across 15+ domains.
 - 💻 Collaborating on **Front-End Standards**, supporting our [in-house team](https://www.ramseyinhouse.com) of 140+ developers.
 
-🗣 Want to chat? Reach out on [LinkedIn](https://www.linkedin.com/in/christianjhughes/)!
+🗣 **Want to chat?** Reach out on [LinkedIn](https://www.linkedin.com/in/christianjhughes/)!
