@@ -2,7 +2,7 @@
 
 ![ramsey-banner-christian-hughes](https://user-images.githubusercontent.com/14190451/89072635-8ae64000-d33e-11ea-8f2d-8bed780fa9c9.jpg)
 
-I'm **Christian**! I build tools at [Ramsey Solutions](https://www.daveramsey.com) that help folks **get out of debt** 💸, **build wealth** 🤩, and **find financial freedom** 🥳.
+👋 I'm **Christian**! I build tools at [Ramsey Solutions](https://www.daveramsey.com) that help folks **get out of debt** 💸, **build wealth** 🤩, and **find financial freedom** 🥳.
 
 **Right now, I'm working on...**
 
