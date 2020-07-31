@@ -8,6 +8,6 @@ I'm Christian! I build tools at [Ramsey Solutions](https://www.ramseyinhouse.com
 
 - 🧰 Building out tooling for our **CMS Platform**, serving millions of users each month.
 - 🖌️ Supporting our in-house **Design System**, unifying design standards across 15+ domains.
-- 💻 Collaborating on Front-End Standards, supporting our in-house team of 140+ developers.
+- 💻 Collaborating on **Front-End Standards**, supporting our in-house team of 140+ developers.
 
 🗣 Want to chat? Reach out on [LinkedIn](https://www.linkedin.com/in/christianjhughes/)!
