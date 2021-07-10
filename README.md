@@ -7,7 +7,7 @@ I'm **Christian**! I build tools at [Ramsey Solutions](https://www.daveramsey.co
 **Right now, I'm working on...**
 
 - 🧰 Building out tooling for our **CMS Platform**, serving [millions of users](https://www.fansofourfans.com/) each month.
-- 🖌️ Supporting our in-house **Design System**, unifying design standards across 15+ domains.
+- 🖌️ Supporting our in-house **Design System**, unifying design standards across domains.
 - 💻 Collaborating on **Front-End Standards**, supporting our [in-house team](https://www.ramseyinhouse.com) of 140+ developers.
 
 🗣 **Want to chat?** Reach out on [LinkedIn](https://www.linkedin.com/in/christianjhughes/)!
