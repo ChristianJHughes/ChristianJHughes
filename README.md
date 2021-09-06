@@ -1,13 +1,11 @@
 # 🎉 Nice to meet you!
 
-![ramsey-banner-christian-hughes](https://user-images.githubusercontent.com/14190451/89072635-8ae64000-d33e-11ea-8f2d-8bed780fa9c9.jpg)
+👋 Hi, I'm Christian Hughes! I'm a Software Engineer with a passion for front-end development, developer tools, and design systems.
 
-I'm **Christian**! I build tools at [Ramsey Solutions](https://www.daveramsey.com) that help folks **get out of debt** 💸, **build wealth** 🤩, & **find financial freedom** 🥳.
+**Recently at @RamseyInHouse, I've worked on...**
 
-**Right now, I'm working on...**
-
-- 🧰 Building out tooling for our **CMS Platform**, serving [millions of users](https://www.fansofourfans.com/) each month.
-- 🖌️ Supporting our in-house **Design System**, unifying design standards across domains.
-- 💻 Collaborating on **Front-End Standards**, supporting our [in-house team](https://www.ramseyinhouse.com) of 140+ developers.
+- 🧰 Building out front-end tooling for the **CMS Platform**, serving [millions of users](https://www.fansofourfans.com/) each month.
+- 🖌️ Supporting the in-house **Design System**, creating cross-platform web SDKs across React, Ruby on Rails, and more.
+- 💻 Collaborating on **Front-End Standards**, supporting the [in-house team](https://www.ramseyinhouse.com) of 140+ developers.
 
 🗣 **Want to chat?** Reach out on [LinkedIn](https://www.linkedin.com/in/christianjhughes/)!
