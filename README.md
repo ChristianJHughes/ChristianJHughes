@@ -4,6 +4,6 @@
 
 You can find me working on the web at **[@Dropbox](https://github.com/dropbox)** in beautiful Nashville, TN.
 
-I used to be found building tools at **[@RamseyInHouse](https://github.com/RamseyInHouse)** and **[@Amazon](https://github.com/amzn)**.
+I used to be found at **[@RamseyInHouse](https://github.com/RamseyInHouse)** and **[@Amazon](https://github.com/amzn)**.
 
 🗣 **Want to chat?** Reach out on [LinkedIn](https://www.linkedin.com/in/christianjhughes/)!
